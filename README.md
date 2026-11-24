@@ -1,2 +1,2 @@
 #Calc Project
-Description: A simple command-line calculator
+Description: A scientific calculator for engineers.

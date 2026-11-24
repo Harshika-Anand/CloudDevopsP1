@@ -1,2 +1,2 @@
-#Calc Project
-Description: A fast calculator for students.
+# Calc Project
+Description: A fast, scientific calculator for students and engineers.
